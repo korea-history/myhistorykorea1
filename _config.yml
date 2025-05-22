@@ -4,7 +4,7 @@ locale: "ko-KR"
 baseurl: ""        # 깃허브 페이지 루트가 아니면 경로 수정
 url: "https://korea-history.github.io/myhistorykorea1"
 
-theme: "minimal-mistakes-jekyll"
+theme: "jekyll-theme-minimal"
 
 author:
   name: "Your Name"
