@@ -1,0 +1,23 @@
+title: "한국사 기록 채널"
+description: "한국의 역사와 인물을 쉽고 재미있게 소개하는 블로그입니다."
+locale: "ko-KR"
+baseurl: ""        # 깃허브 페이지 루트가 아니면 경로 수정
+url: "https://korea-history.github.io/myhistorykorea1"
+
+theme: "minimal-mistakes-jekyll"
+
+author:
+  name: "Your Name"
+  bio: "역사 애호가"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate: 5
+paginate_path: "/page:num/"
+
+markdown: kramdown
+highlighter: rouge
+Add _config.yml
