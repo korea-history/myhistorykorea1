@@ -9,3 +9,8 @@ categories: [한국사, 고대사]
 
 광개토대왕과 장수왕 시기에는 최대 영토를 이뤘고,  
 이 시기는 고구려의 전성기로 불립니다.
+
+<video width="640" height="360" controls>
+  <source src="/assets/videos/myvideo.mp4" type="video/mp4">
+  브라우저가 지원하지 않습니다.
+</video>
