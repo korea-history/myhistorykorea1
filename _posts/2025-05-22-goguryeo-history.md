@@ -11,6 +11,5 @@ categories: [한국사, 고대사]
 이 시기는 고구려의 전성기로 불립니다.
 
 <video width="640" height="360" controls>
-  <source src="/assets/videos/myvideo.mp4" type="video/mp4">
-  브라우저가 지원하지 않습니다.
+  <source src="/assets/videos/VID_20250205_055039.mp4" type="video/mp4">
 </video>
